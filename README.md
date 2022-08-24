@@ -1,5 +1,5 @@
 # javascript-crash-browser
 
-to use;
+to use:
   open browser
   paste code in browser
